@@ -7,6 +7,7 @@
 [![Version](https://img.shields.io/badge/version-1.4.0-blue.svg)](https://glyfiq.link)
 [![License](https://img.shields.io/badge/license-Proprietary-gray.svg)](https://github.com/alexblogoodf/glyfiq-mcp/blob/main/LICENSE.md)
 [![MCP Registry](https://img.shields.io/badge/MCP-Official%20Registry-orange.svg)](https://registry.modelcontextprotocol.io/?q=glyfiq)
+[![Glyfiq Medical & Health Icons MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.alexblogoodf/glyfiq-medical-icons/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.alexblogoodf/glyfiq-medical-icons)
 
 ## Connect (no account, no API key)
 
