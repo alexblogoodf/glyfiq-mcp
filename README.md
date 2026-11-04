@@ -27,9 +27,9 @@ https://glyfiq.link/mcp
 ## ✨ Tools
 - **search_icons:** search by keyword or medical term
 - **get_icon_svg:** SVG code by exact icon name
+- **get_icons_svg:** batch SVG code for multiple icons (1 to 20)
 - **list_tags:** top 50 medical tags
 - **get_free_icons_sample:** random sample of free icons
-PRO
 
 **Add your license key:** https://glyfiq.link/mcp?license_key=YOUR_KEY
 
