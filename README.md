@@ -5,8 +5,8 @@
 > 🚫 *No AI-generated paths. No invented icon names. 100% authentic.*
 
 [![Version](https://img.shields.io/badge/version-1.4.0-blue.svg)](https://glyfiq.link)
-[![License](https://img.shields.io/badge/license-Proprietary-gray.svg)](https://glyfiq.link)
-[![MCP Registry](https://img.shields.io/badge/MCP-Official%20Registry-orange.svg)](https://registry.modelcontextprotocol.io/)
+[![License](https://img.shields.io/badge/license-Proprietary-gray.svg)](https://github.com/alexblogoodf/glyfiq-mcp/blob/main/LICENSE.md)
+[![MCP Registry](https://img.shields.io/badge/MCP-Official%20Registry-orange.svg)](https://registry.modelcontextprotocol.io/?q=glyfiq)
 
 ## Connect (no account, no API key)
 
