@@ -49,3 +49,11 @@ The free tier works instantly. Add the following configuration to your MCP clien
     }
   }
 }
+
+## Use as an AI skill
+
+1. Connect the MCP server: https://glyfiq.link/mcp
+2. Add the skill from `skills/glyfiq-icons/SKILL.md`
+
+Claude Code: `claude mcp add glyfiq --transport http https://glyfiq.link/mcp`
+Claude.ai: download the ZIP from the latest Release, then Customize > Skills > Upload a skill.
