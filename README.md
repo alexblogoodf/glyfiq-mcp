@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/license-Proprietary-gray.svg)](https://github.com/alexblogoodf/glyfiq-mcp/blob/main/LICENSE.md)
 [![MCP Registry](https://img.shields.io/badge/MCP-Official%20Registry-orange.svg)](https://registry.modelcontextprotocol.io/?q=glyfiq)
 [![Glyfiq Medical & Health Icons MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.alexblogoodf/glyfiq-medical-icons/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.alexblogoodf/glyfiq-medical-icons)
+[![M8ven Verified](https://m8ven.ai/badge/alexblogoodf/glyfiq-mcp)](https://m8ven.ai/mcp/alexblogoodf/glyfiq-mcp)
 
 ## Connect (no account, no API key)
 
